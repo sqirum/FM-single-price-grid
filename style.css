@@ -143,6 +143,7 @@ main {
     letter-spacing: -0.17px;
     line-height: 20px;
     opacity: 75%;
+    color: #fff;
 }
 
 @media only screen and (min-width: 998px) {
